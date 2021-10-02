@@ -63,7 +63,7 @@ public class UbicacionFragment extends Fragment implements OnMapReadyCallback{
         mapa.addMarker(
                 new MarkerOptions()
                         .position(INMOBILIARIA))
-                .setTitle("Area 51");
+                .setTitle("Inmobiliaria Herrera");
 
     }
 }
